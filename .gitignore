@@ -1,4 +1,4 @@
 .vscode/
 .temp/
 
-.db_org.php
+.config/db_org.php
