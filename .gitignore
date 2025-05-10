@@ -1,4 +1,6 @@
 .vscode/
 .temp/
 
-.config/db_org.php
+**/db_org.php
+**/*.zip
+**/*.sql
