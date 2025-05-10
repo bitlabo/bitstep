@@ -1,6 +1,6 @@
 .vscode/
 .temp/
 
-**/db_org.php
+**/db.php
 **/*.zip
 **/*.sql
